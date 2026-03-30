@@ -1,4 +1,4 @@
-# Multilingual Machine Translator
+# Multilingual Machine Translator 
 
 A Google Translate-like app using Hugging Face transformers.
 
@@ -16,7 +16,7 @@ A Google Translate-like app using Hugging Face transformers.
 
 ## Features
 
-- Translate text between English, Hindi, French, Spanish, German
+- Translate text between English, Hindi, French, Spanish, German, Marathi
 - Auto language detection toggle
 - Swap source/target languages
 - Translation history
